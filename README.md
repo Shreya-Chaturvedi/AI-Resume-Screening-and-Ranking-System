@@ -12,3 +12,5 @@ An automated platform for AI powered resume screening and ranking using NLP and 
 3. Install dependencies.
 4. Setup the virtual environment.
 5. Run the application.
+
+Live At: https://resumevista.streamlit.app/
